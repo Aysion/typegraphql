@@ -1,0 +1,13 @@
+export { AggregateUserProfileArgs } from "./AggregateUserProfileArgs";
+export { CreateOneUserProfileArgs } from "./CreateOneUserProfileArgs";
+export { DeleteManyUserProfileArgs } from "./DeleteManyUserProfileArgs";
+export { DeleteOneUserProfileArgs } from "./DeleteOneUserProfileArgs";
+export { FindFirstUserProfileArgs } from "./FindFirstUserProfileArgs";
+export { FindFirstUserProfileOrThrowArgs } from "./FindFirstUserProfileOrThrowArgs";
+export { FindManyUserProfileArgs } from "./FindManyUserProfileArgs";
+export { FindUniqueUserProfileArgs } from "./FindUniqueUserProfileArgs";
+export { FindUniqueUserProfileOrThrowArgs } from "./FindUniqueUserProfileOrThrowArgs";
+export { GroupByUserProfileArgs } from "./GroupByUserProfileArgs";
+export { UpdateManyUserProfileArgs } from "./UpdateManyUserProfileArgs";
+export { UpdateOneUserProfileArgs } from "./UpdateOneUserProfileArgs";
+export { UpsertOneUserProfileArgs } from "./UpsertOneUserProfileArgs";

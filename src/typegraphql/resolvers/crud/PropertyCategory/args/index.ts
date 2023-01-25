@@ -1,0 +1,13 @@
+export { AggregatePropertyCategoryArgs } from "./AggregatePropertyCategoryArgs";
+export { CreateOnePropertyCategoryArgs } from "./CreateOnePropertyCategoryArgs";
+export { DeleteManyPropertyCategoryArgs } from "./DeleteManyPropertyCategoryArgs";
+export { DeleteOnePropertyCategoryArgs } from "./DeleteOnePropertyCategoryArgs";
+export { FindFirstPropertyCategoryArgs } from "./FindFirstPropertyCategoryArgs";
+export { FindFirstPropertyCategoryOrThrowArgs } from "./FindFirstPropertyCategoryOrThrowArgs";
+export { FindManyPropertyCategoryArgs } from "./FindManyPropertyCategoryArgs";
+export { FindUniquePropertyCategoryArgs } from "./FindUniquePropertyCategoryArgs";
+export { FindUniquePropertyCategoryOrThrowArgs } from "./FindUniquePropertyCategoryOrThrowArgs";
+export { GroupByPropertyCategoryArgs } from "./GroupByPropertyCategoryArgs";
+export { UpdateManyPropertyCategoryArgs } from "./UpdateManyPropertyCategoryArgs";
+export { UpdateOnePropertyCategoryArgs } from "./UpdateOnePropertyCategoryArgs";
+export { UpsertOnePropertyCategoryArgs } from "./UpsertOnePropertyCategoryArgs";
